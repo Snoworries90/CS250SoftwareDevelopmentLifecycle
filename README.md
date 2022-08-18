@@ -3,7 +3,8 @@
 
     How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
     
-    Interpreting user needs would require good communication with the client in what the requirements are and why they are important. Having clear requirements allows me to implement a feature into a program that will pass any tests based on the requirements from the client. User stories helps put me in the user's shoes and allows me to visualize what the user will see, how the user will interact with the program, and why that feature is important to the user. 
+    Interpreting user needs would require good communication with the client in what the requirements are and why they are important. \n
+    Having clear requirements allows me to implement a feature into a program that will pass any tests based on the requirements from the client. User stories helps put me in the user's shoes and allows me to visualize what the user will see, how the user will interact with the program, and why that feature is important to the user. 
     
     How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
     
